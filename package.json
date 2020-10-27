@@ -33,7 +33,6 @@
         "webpack-cli": "^3.2.1"
     },
     "dependencies": {
-        "react-draggable": "^4.4.3"
     },
     "keywords": [
         "example 1",
